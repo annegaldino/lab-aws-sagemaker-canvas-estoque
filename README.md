@@ -4,7 +4,9 @@ Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com Sag
 
 ## 📋 Pré-requisitos
 
-Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda para criar sua conta, confira nosso repositório [AWS Cloud Quickstart](https://github.com/digitalinnovationone/aws-cloud-quickstart).
+Antes de começar, certifique-se de ter uma conta na AWS. 
+:rotating_light: O SageMaker Canvas é um serviço cobrado por hora de ativação do domínio, portanto, antes de realizar algum teste solicite o uso gratuito por até 160 horas.
+(https://aws.amazon.com/pt/sagemaker/pricing/)
 
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
